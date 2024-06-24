@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edu21lara
-- 👀 I’m interested in public procurement, 
+- 👀 I’m interested in public procurement, marketing analysis, causal inference.
 - 🌱 I’m currently learning artificial intelligence (AI),
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am looking to collaborate in marketing and behavioral applications.
 - 📫 How to reach me eduardo.lara@ug.uchile.cl 
 
 <!---
